@@ -32,7 +32,7 @@ Evaluation Metrics: Provides accuracy, precision, recall, and F1-score for model
 
 **Clone the repository:**
 
-git clone <repository-url>
+git clone < repository-url >
 
 cd <repository-name>
 
