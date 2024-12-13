@@ -34,7 +34,7 @@ Evaluation Metrics: Provides accuracy, precision, recall, and F1-score for model
 
 git clone < repository-url >
 
-cd <repository-name>
+cd < repository-name >
 
 **Install the required dependencies:**
 
